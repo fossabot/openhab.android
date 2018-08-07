@@ -5,6 +5,7 @@
   <a href="https://crowdin.com/project/openhab-android">
     <img src="https://d322cqt584bo4o.cloudfront.net/openhab-android/localized.svg">
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fmueller-ma-bot%2Fopenhab.android?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmueller-ma-bot%2Fopenhab.android.svg?type=shield"/></a>
     <a href="https://codecov.io/gh/openhab/openhab-android/branch/master">
     <img src="https://codecov.io/gh/openhab/openhab-android/branch/master/graph/badge.svg">
   </a>
@@ -74,3 +75,7 @@ For using map view support in the "full" build flavor, you need to visit the [Ma
 Product names, logos, brands and other trademarks referred to within the openHAB website are the property of their respective trademark holders. These trademark holders are not affiliated with openHAB or our website. They do not sponsor or endorse our materials.
 
 Google Play and the Google Play logo are trademarks of Google Inc.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmueller-ma-bot%2Fopenhab.android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmueller-ma-bot%2Fopenhab.android?ref=badge_large)
